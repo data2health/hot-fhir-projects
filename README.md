@@ -39,7 +39,7 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 
 ## Repositories
 
-Server https://github.com/HOT-FHIR/server
+Server https://github.com/hot-fhir/server
 Repo link here for HTML client
 
 You can either add the PM layer to an existing repository, or create a new repository for this and instead list the associated repositories below. Please be sure to tag any related repositories (whether or not they are already under the data2health organization) with the topic 'data2health'. The repository associated with the PM layer must be public. Other repositories associated with the project (where applicable) may be private for reasons of sensitivity or privacy. 
