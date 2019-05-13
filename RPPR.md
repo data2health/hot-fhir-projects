@@ -18,8 +18,8 @@ The primary outcomes for this project are:
 * Identifying FHIR services that contain critical and important sematic resources 
 * extending or adopting extensions to FHIR terminology services where necessary
 # Timeline (monthly)
-* 6/1 – A FHIR terminology server that can demonstrate some semantic content needed for translational research
-* 6/1 – Identifying key semantic resources (e.g. terminologies, classifications, an ontologies) that are required for translational research
+* 6/15 – A FHIR terminology server that can demonstrate some semantic content needed for translational research
+* 6/15 – Identifying key semantic resources (e.g. terminologies, classifications, an ontologies) that are required for translational research
 * 8/1 – Exploring the CRISO terminology server for RDF/OWL functionality extensions
 * 9/1 – Prototype cross-server functionality and services in a proto-network of severs
 * 9/20 – Demonstrate proto-network of terminology services and preliminary binding to FHIR data model for translational science
