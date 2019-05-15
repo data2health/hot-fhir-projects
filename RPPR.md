@@ -15,7 +15,7 @@ We will explore FHIR compatible terminology servers
 # Expected Outcomes
 The primary outcomes for this project are:
 * an integrated network of terminology services that in aggregate address the semantic needs of the CTSA program and translational research
-* Identifying FHIR services that contain critical and important sematic resources 
+* Identifying FHIR services that contain critical and important semantic resources 
 * extending or adopting extensions to FHIR terminology services where necessary
 # Timeline (monthly)
 * 6/15 – A FHIR terminology server that can demonstrate some semantic content needed for translational research
