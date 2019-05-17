@@ -83,8 +83,9 @@ these that appears to most nearly support our reliability, performance and exten
 * Protégé - An ontology editor and tooling ecosystem for working with OWL, SKOS and RDF terminology systems.  Protégé also supports a frame based model that may play some useful roles
 * SNOMED CT Terminology Services - a collection of REST and web services that support terminologies represented in the SNOMED RF2 model
 * OntoServer - 
-* VocBench3 -
-* Solor -
+* [VocBench3](http://vocbench.uniroma2.it/) - a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.
+* [Solor](http://solor.io) - a common model and accompanying set of tools for integrating SNOMED CT, LOINC, RxNORM and other terminologies developed by the Veterans Administration
+* [BioPortal](http://bioportal.bioontology.org/) - a repository of biomedical ontologies and tools for integration and mapping.
 
 ### Content  
 We will start with a baseline set of terminological resources that (a) are needed by many different communities within our
