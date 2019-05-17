@@ -30,7 +30,7 @@ common Resource Oriented Architecture (ROA) API.
 3) **Semantic integration** -- terminological resource *content* needs to be integrated, "mapped" and cross-linked to form
 a semantic continuum. 
 
-While there have been many attempts to address the integrational issues described above <sup><a name="footnote1">1</a></sup>, but until
+While there have been many attempts to address the integrational issues described above, but until
 very recently there hasn't been a compelling business case to actually adopt terminology services standards in a 
 production environment.  The [FHIR community](http://hl7.org/fhir/), however, has defined a limited set of 
 [terminological services](https://www.hl7.org/fhir/terminology-service.html
@@ -86,20 +86,24 @@ these that appears to most nearly support our reliability, performance and exten
 * [VocBench3](http://vocbench.uniroma2.it/) - a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets.
 * [Solor](http://solor.io) - a common model and accompanying set of tools for integrating SNOMED CT, LOINC, RxNORM and other terminologies developed by the Veterans Administration
 * [BioPortal](http://bioportal.bioontology.org/) - a repository of biomedical ontologies and tools for integration and mapping.
+* ICD-10 and ICD-11 REST services - a set of RESTful terminology services supported by the World Health Organization (WHO) for access to the ICD-10 and ICD-11 content
 
 ### Content  
 We will start with a baseline set of terminological resources that (a) are needed by many different communities within our
 user base and (b) are representative of the different types of terminological resources that we expect to encounter as the ecosystem
 expands.  This will include:
-* RDF/RDFS
-* SKOS
-* ICD-10-CM
-* LOINC
-* RxNorm
-* MONDO
-* NCI Thesaurus
-* SNOMED CT
-* NCI MetaThesaurus / UMLS
+* [Resource Description Framework (RDF)](https://www.w3.org/RDF/)/[RDF Schema (RDFS)](https://www.w3.org/TR/rdf-schema/)
+* [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/)
+* [International Classification of Diseases, Tenth Revision, Clinical Modification(ICD-10-CM)](https://www.cdc.gov/nchs/icd/icd10cm.htm)
+* [LLogical Observation Identifiers Names and Codes (LOINC)](https://loinc.org)
+* [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/)
+* [Human Phenotype Ontology (HPO)](https://hpo.jax.org/app/)
+* [Gene Ontology (GO)](http://geneontology.org/)
+* [Monarch Disease Ontology (MONDO)](https://www.ebi.ac.uk/ols/ontologies/mondo)
+* Other [OBO ontologies](http://www.obofoundry.org/) as needed...
+* [NCI Thesaurus (NCIt)](https://ncithesaurus-stage.nci.nih.gov/ncitbrowser/)
+* [Systemized Nomenclature of Medicine - Clinical Terms (SNOMED-CT)](https://www.snomed.org/)
+* [NCI MetaThesaurus](https://ncimeta.nci.nih.gov/ncimbrowser/) / [Unified Medical Language System (UMLS)]((https://www.nlm.nih.gov/research/umls/))
 
 
 ### Requirements
@@ -161,11 +165,3 @@ See https://github.com/data2health/project-repo-template/tree/master/team.md
 [The #hot-fhir slack channel](https://cd2h.slack.com/messages/CGCAPAANA) is accessible to onboarded participants. 
 
 
-<sup>[1](#footnote1)</sup> Examples of terminology integration and representation projects include (but not limited to):
-* [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/)
-* [Object Management Group's Lexicon Query Services](https://www.omg.org/spec/LQS/About-LQS/)
-* [HL7 Common Terminology Services](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=10)
-* [HL7 Common Terminology Services 2](http://wiki.hl7.org/index.php?title=Common_Terminology_Services_-_Release_2_(Normative))
-* [NCI LexEVS](https://evs.nci.nih.gov/)
-* [BioPortal](https://bioportal.bioontology.org/)
-* [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/)
