@@ -17,6 +17,13 @@ The primary outcomes for this project are:
 * an integrated network of terminology services that in aggregate address the semantic needs of the CTSA program and translational research
 * Identifying FHIR services that contain critical and important semantic resources 
 * extending or adopting extensions to FHIR terminology services where necessary
+# Deliverables
+1) [Portable, deployable HAPI FHIR based terminology with baseline FHIR content](https://github.com/HOT-FHIR/server/milestone/1)
+2) [Loaders for RDF/SKOS, OWL, RRF and RF2](https://github.com/HOT-FHIR/server/milestone/2)
+3) [Community portal for evaluation, requirements gathering, discussion, etc.](https://github.com/HOT-FHIR/server/milestone/3)
+4) [Implementation of selected high-priority extensions to support community needs](https://github.com/HOT-FHIR/server/milestone/4)
+5) [Demonstration scripts and API services integrated into applications such as REDCap](https://github.com/HOT-FHIR/server/milestone/5)
+
 # Timeline (monthly)
 * 6/15 – A FHIR terminology server that can demonstrate some semantic content needed for translational research
 * 6/15 – Identifying key semantic resources (e.g. terminologies, classifications, an ontologies) that are required for translational research
