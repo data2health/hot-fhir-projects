@@ -302,3 +302,4 @@ defaults:
 collections:
   pages:
     output: ture
+theme: jekyll-theme-cayman
