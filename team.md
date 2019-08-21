@@ -51,7 +51,7 @@ Albert Lai | [laialbert](https://github.com/laialbert) | WashU
 Michele Morris | [github.com](http://github.com) | UPitt
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
-Steve Patterson | [github.com.](http://github.com.) | #N/A
+Steve Patterson | [github.com.](http://github.com.) | iTHRIV
 Philip Payne | [prpayne5](http://github.com/prpayne5) | WashU
 Emily Pfaff | [empfff](http://github.com/empfff) | UNC
 Peter Robinson | [pnrobinson](http://github.com/pnrobinson) | JAX
