@@ -48,7 +48,7 @@ Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
-Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | #N/A
+Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Michele Morris | [github.com](http://github.com) | UPitt
 Lisa O'Keefe | [LisaOKeefe1](https://github.com/LisaOKeefe1) | Northwestern
 Nitin Parikh | [github.com](http://github.com) | UCDavisHealth
