@@ -62,6 +62,7 @@ Pamela Shaw | [bioscibrarian](https://github.com/bioscibrarian) | Northwestern
 Eric Sid | [ericsid](https://github.com/ericsid) | NCATS
 Sai Manjula Simhadri | [saimanjula](https://github.com/saimanjula) | NCATS
 Julian Solway | [jsolway](http://github.com/jsolway) | UChicago
+Juan Suarez | [github.com](http://github.com) | NYU
 Bradley Taylor | [btaylormcw](https://github.com/btaylormcw) | MCW
 Ali Torkamani | [atorkama](https://github.com/atorkama) | Scripps
 Sam Volchenboum | [volcs0](https://github.com/volcs0) | UChicago
