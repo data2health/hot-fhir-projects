@@ -59,6 +59,8 @@ Diane Keogh | [gibhub.com](http://gibhub.com) | Harvard
 Boyd Knosp | [boydknosp](http://github.com/boydknosp) | Iowa
 Brenda Kostelecky | [bdkostelecky](http://github.com/bdkostelecky) | Hutch
 Albert Lai | [laialbert](https://github.com/laialbert) | WashU
+Rebecca Laird | [github.com](http://github.com) | CLIC
+Prasanth Manukonda | [github.com](http://github.com) | Rockefeller
 Diego Mazzotti | [mazzottidr](https://github.com/mazzottidr) | UPenn
 Arman Mikaili | [](https://github.com/amikaili/) | Iowa
 Sarah Moore | [github.com.](http://github.com.) | OhioState
