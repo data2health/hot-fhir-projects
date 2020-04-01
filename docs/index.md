@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Healthcare Open Terminology
+title: Health Open Terminology Ecosystem (HOT)
 ---
 
 Virtually all clinical and translational science data must be bound to controlled terminologies or ontologies to be 
